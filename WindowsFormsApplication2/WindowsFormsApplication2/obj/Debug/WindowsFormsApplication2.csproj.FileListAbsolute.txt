@@ -1,0 +1,9 @@
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\TaiLieuHocTap\NET\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.RSA_LuongThiThuongThuong.resources
