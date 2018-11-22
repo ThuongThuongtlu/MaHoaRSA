@@ -1,3 +1,4 @@
+# Mã HÓA RSA
 ỨNG DỤNG MÔN SỐ HỌC THUẬT TOÁN VIẾT CHƯƠNG TRÌNH SINH SỐ NGUYÊN TỐ LỚN DÙNG TRONG MẬT MÃ RSA
 ## Thông tin chung
 - Sinh viên : Lương Thị Thương Thương
